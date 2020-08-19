@@ -24,7 +24,7 @@ app_icon                                  : /assets/appicon.png
 app_name                                  : Timewave                                           
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 
-app_price                                 : $ 1.99                                          
+app_price                                 :                                          
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 
 app_description                           : Flowing timers for sequential tasks.
